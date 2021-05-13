@@ -1,4 +1,4 @@
-module github.com/davisbento/go-rabbitmqz
+module github.com/davisbento/go-rabbitmq
 
 go 1.16
 
